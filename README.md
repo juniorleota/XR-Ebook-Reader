@@ -1,2 +1,2 @@
-# MagicLeap Ebook Reader
-This magic leap project to experiment with the ability to read ebooks in the MagicLeap headset.
+# VR Ebook Reader
+Small project to allow for reading ebooks in either vr or ar headsets.
